@@ -1,2 +1,3 @@
-# terraform-aws-starter-vpc
-Modular Terraform configuration for multi-AZ VPC with NAT Gateways.
+# Terraform AWS Starter VPC
+
+Modular Terraform configuration for AWS VPC.
